@@ -1,3 +1,17 @@
+
+
+# Tampilan Pada Semantic Web Imperial Dimsum
+
+Halaman utama dirancang dengan desain yang bersih dan sederhana, memberikan pengalaman navigasi yang intuitif. Pengguna dapat dengan mudah mengakses fitur-fitur utama sistem.  
+<div align="center">  
+   <img src="https://github.com/user-attachments/assets/5eff19fe-59b0-4e7b-a06b-202d7573c5b3" alt="Tampilan Homepage" width="600">  
+</div>  
+
+
+---
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
